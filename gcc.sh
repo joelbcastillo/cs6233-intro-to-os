@@ -1,0 +1,1 @@
+docker run -it -v ${pwd}:/code infinitecoder/gcc:8.1

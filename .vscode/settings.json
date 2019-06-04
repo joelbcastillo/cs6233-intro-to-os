@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.r2py": "python",
+        "stdlib.h": "c"
+    }
+}
