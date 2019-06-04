@@ -21,9 +21,9 @@ int main(int argc, char *argv[]) {
     int year = atoi(argv[1]);
     bool leapYear = isLeapYear(year);
     if (leapYear) {
-      printf( "%d is a leap year\n", year);
+      printf( "%d was a leap year\n", year);
     } else {
-      printf( "%d is not a leap year\n", year);
+      printf( "%d was not a leap year\n", year);
     }
   } else {
     printf("No args");
